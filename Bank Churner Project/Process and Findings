@@ -47,7 +47,7 @@ I decide to then use Tableau to visualize some other the other data that would b
 Here is the box and whisker plot of the average utilization ratio of the customer, seperated by attrition_flag (Existing vs Attrited).
 
 ![AverageUtilizationRatio]
-(https://github.com/SteveRod8/Projects/blob/main/Bank%20Churner%20Project/images/AvgUtilRatio.png)
+(https://github.com/SteveRod8/Projects/blob/main/Bank%20Churner%20Project/images/AvgUtilRatio.png?raw=true)
 
 Continuing my Tableau experience, I decided to create more tables for it to gather more information.
 I wanted to see how dependents played a role in attrited vs existing customers, however, as the data was, I found it difficult to visualize it cleanly. I went back to mysql to 
