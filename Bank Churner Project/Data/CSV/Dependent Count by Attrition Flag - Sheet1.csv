@@ -1,0 +1,13 @@
+Attrition_Flag,Dependent_Count,Count(*),Attrited Percent,Existing Percent
+Attrited Customer,0,135,8.29748,
+Attrited Customer,1,269,16.5335,
+Attrited Customer,2,417,25.62999,
+Attrited Customer,3,482,29.62508,
+Attrited Customer,4,260,15.98033,
+Existing Customer,5,64,3.93362,
+Existing Customer,0,769,,9.04706
+Existing Customer,1,1569,,18.45882
+Existing Customer,2,2238,,26.32941
+Existing Customer,3,2250,,26.47059
+Existing Customer,4,1314,,15.45882
+Existing Customer,5,360,,4.23529
