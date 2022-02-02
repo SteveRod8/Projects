@@ -1,0 +1,5 @@
+The import process was fairly annoying. You have to first delete the full address column and PIM link column.
+I was also considering removing more data such as, building name, building address (part 2), and removing data that had too many null values in important areas, such as 
+the floor area.
+However, in investigating the floor area, I noticed that they are all upcoming, cannabis businesses, and I believe bias would start to form if I excluded them.
+I decided that before I start removing too many columns, I would look at in mysql workbench.
