@@ -1,1 +1,17 @@
+I wanted to undertake a problem that shows off that I can do market research, the data that I found through Kaggle, user Jack Daoud,
+shows off very interesting statistics in terms of marketing campaign effectiveness, revenue gained, responses to surveys, and much
+more data that can be used for EDA analysis.
+
+The first thing one must do is to attempt and get an understanding of the all the variable names and how they could have a relationship with each other.
+Immediately looking, the amount spent on different items was eye catching, and one of the first thing I want to examine and visualize is how they compare.
+Before that though, I would like to outline some of the bigger questions I will be answering. I believe;
+Was the advertising campaign effective? and a Exploratory data analysis of items sold and what type they are for the future
+is what I will be focusing on.
+
+# Preperation
+
+First thing first is to see what empty values, sensitive data, or uneeded attributes are present. 
+I noticed right away that some income values were not reported, so I decided to get rid of them, as to not drastically change our averages.
+I was considering combining some of the values of the education level attribute, however, since I wasn't able to find confirmation of what those different names were, I couldn't.
+
 
